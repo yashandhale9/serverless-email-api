@@ -17,7 +17,16 @@ It runs completely offline (no AWS account required) using the `serverless-offli
 ---
 
 ## 🧩 Project Structure
-
+```
+serverless-email-api/
+│
+├── handler.py          # Main API logic (email sending)
+├── serverless.yml      # Serverless config file
+├── package.json        # Node dependencies for serverless
+├── requirements.txt    # Python dependencies
+├── .gitignore          # Ignored files
+└── .env                # Environment variables (not uploaded)
+```
 ---
 
 ## ⚙️ Setup Instructions
