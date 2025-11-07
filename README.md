@@ -122,7 +122,12 @@ Python 3.x
 Gmail account with App Password enabled
 
 ---
+### **Screenshots:**
+<img width="500" height="250" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/c557cf0e-8a44-4062-bc2e-91710af5ff21" />
+<img width="500" height="250" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/a80f4a2b-1c32-4d1b-a453-0d480ac2e0bd" />
 
+
+---
 ### 🏁 **Author**
 
 Yash Gorakshnath Andhale
