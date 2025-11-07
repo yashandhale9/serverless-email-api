@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# Serverless build artifacts
+.serverless/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db

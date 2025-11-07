@@ -1,0 +1,21 @@
+service: email-api
+
+provider:
+  name: aws         # just for structure; we are NOT deploying
+  runtime: python3.9
+  region: ap-south-1
+
+functions:
+  send_email:
+    handler: handler.send_email
+    events:
+      - http:
+          path: send-email
+          method: post
+
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 3000
